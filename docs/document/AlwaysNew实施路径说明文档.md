@@ -1,0 +1,1 @@
+'# 欢迎使用MarkDown-AlwaysNew实施路径说明文档' 
