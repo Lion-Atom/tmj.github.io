@@ -4,11 +4,11 @@
 module.exports = {
     title: '公共技术文档平台',
     description: 'Document library ',
-    port: 8181,
+    port: 8182,
     // head: [
     //     ['link', { rel: 'icon', href: `/favicon.ico` }],
     // ],
-    // base: '/web_accumulate/', // 这是部署到github相关的配置 下面会讲
+    base: '/', // 这是部署到github相关的配置 下面会讲
     markdown: {
         lineNumbers: true // 代码块显示行号
     },
