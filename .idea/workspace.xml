@@ -2,195 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc38e7bb-bafb-49c5-991c-ad304a5aaba2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/blog-demo-p1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/demo-dev-result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/vuepress-demo-codes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/vuepress-new-demo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/vuepress-side-bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/2.styles.b38b7ea0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/styles.f40f70fd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.a5f91c09.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.36314793.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.4f78e081.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.aaac03df.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.eb0cf659.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.13ddb830.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/18.afb04496.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.a390ee48.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.b38b7ea0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/20.74ba4a66.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/21.eaf4d26a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/22.a0dc5098.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.75596b3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.f729854b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.79120b4a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.31f2632b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.701cbf53.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.cdba58b1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.35bba47b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.f40f70fd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew最佳实践手册.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/document/AlwaysNew最佳实践手册.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/frontend/vuepress爬坑篇之搭建个人博客.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/07/f9/4eb984e13d09b2c7d0c96113931a3a002d7255f08f42cf8e9d7b3c3f8ba1a6fcaa6735246787bcd2b655973c7c98c2fa551d0f938bfdcfc474be60931a4f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/16/ee/e1411a2e2818fc218aea1997e53b00541a26a90c3e4a125465831a7044c412bcec60edefb5271f5cbd8be31883ea94d1ea89e247bb9d5df4856fb9cbaa9c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/1c/8a/476b888ab447a4d78d4f09360b9ac0c318cdc82ab1e62356d57dcc8c6808049345cd557f031f7ab45d5a09cabb630df47ce111bdab954174e526dc1eed3a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/1f/08/21fde65562424f3e5b8fc65c438595eb5f6c97a6e82a1622ed41aa59e65138beee8c5b5ff628ed5b490db9b4e3e8bd8473efd898993f00a836b41a456d46" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/2f/d7/8977b16bbc69531759bc246939539fc74f3d59b00a505e1c89104c653d46e346c3d89c39967e49cf805b8425e6a1d8a180f205d537ab8a792b61d072a55d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/31/c3/c36490bb8a8e1950778ae893bfa4a14258a3bec4014e24c42fd7d5708ce6ba7ff631d125f77f52546a15c648ac81ccf90e317e1a42f501eb6e2741cbae6e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/44/74/7d8a85f75358e0bbf393f63fa03589098ddcc7bbeddcf426ec4180aa8684445019e210c86c82a4a35242ee227c08c14312a1e58a09ea2646d31e4258870e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/48/34/ec7cf481e4e46a78cbf5bb88cbd8913c0353116edee7c5ddd83603ae3d0b1e7de99327f364c1d856bf3e1a800c912388af5ab35f1d3e3d8ae837126a3b51" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/4f/13/2778f0e8889afddc4118628a0374ecd26d2e20c88942e7b81b508d4fdbb6c01c7ca69d981888359add145921c041f1f85f8f64b15c7330977931e2d9090e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/5d/10/9a02bdf9855f6483cf40cbbea7310812dfbf9e898eb01cd54df6f4d2d0eed4d6fc8e9f7c8d2a2fd2430e375cbe0276174ea17f8737e9cbb4838fd1417f05" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/5e/57/3a9a2fa2dcc31516479128c3084d57b172ff41071ca1adda40cd4a4728f2b46c85850f574183a5de604a7bdb6295c548f7d03ae917762acd170a878f28b6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/62/25/1eb32a7f20f7d9dc3dfc7d5097278491035bc1ee89de27ae737c7e209db8fd3ed21f166962d263baf254256a21fbabf7a54210171267087c522a395c2e03" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/7b/dc/b463816299573b0ffd651b70be786d48c1a9295d1db2d2de4336fb2e53d3ac7355e1b9c1eb360c41fb058323085f30d6c5650a7fc41bb7c1173ae8236e46" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/93/b5/092f8a5f9bef9362494b27187bd7929492c894be73b3725d4c8183302bc88a4b24735a7808af65d48443b635169da7f60d568cc5131720479767406dc9a0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/9b/c3/28ca97b5904859209886debb56ec933d55f08b99fc47c728f9926bf4ed08da509c8b036ae1de35144567a5643cf5b950de8f38c602f9a4318c418c546402" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/a2/da/118bd6477478a5d9e054fe6ed59b0820432f42bbada67687a9c0b823ec8b506522732051e9753544247bbe5bac2307b2cf3896a6a33267dee675dc2bab04" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/ce/1a/6a7c8edb1998082ff0bd6b06577022b0011258be133a6e1dfdd9f3f125fd2facceebccc48411e5543a9bda849901041ca940c7c0dceed51a7baeb65d980b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/cf/ee/70a91ac63a755e6b7ba3673c6059709eb69e0f9a5db6e1a20412dcd14d6c167fca9b49fdd223ebf2b19f4db8deaca0a01cc0899d80dda69b1f877c89187a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/d5/60/4fbea7e6302b8615c066a9be0b388e08e4325a483575d0faf85e64ce4accea182b40010016ed08de311052e4793af45e66e75b2748da12cc1fb2fc0d9387" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/df/6f/7a932a3ef54743ba0cc52a89012564b0d65081bc590d484c6c7612523636e7dc5e2575ac741fd1dbb5da2eae1d8db20b7f32baf404ab1bd6f04dc017c7a3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/ec/ce/e10fa213f255cead6d8f6daa4be4ebc34c9e9cbf864fe47d20d60e39c21751b99a75c08ee0c5f8e7866b0c45b2ae71368ccf460372a1f35add80da766b90" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/f3/f1/c784371de2744c2799adcf719584eb76f81abdd7d032e56449c18fe40dce61f8495a8d3e41e49308c6a15e7cf3a060935750e20809c665f91ca18a79b987" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/09/80/1e2d66b631a516468d59ffcc90b326566ec1bd5f2aa3e0e9caed7a7797cf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/0e/06/8b57a1c498a25a310e45d514719de00dc55435c2fd8a29df4f75e43eff7e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/0e/cc/c645dc4af295cbd6d4e94761fb7c700f532ee13c1329f2e9a53b1ed4dd39" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/2e/df/13ef13caceca8be0b84d6f73d95096b168de0d2a5238956728c308f4ee7c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/31/0d/068a4d7d60ddf013f0e248b64710df3e26efed764547ab0299228410a467" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/3f/69/c109a31988461640ad994ad7be1c2c2cb2b7d66d44ab3051a05a1fa4f142" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/4c/03/119e7c29bc9a466e48b0820d35e18fcf0ca67840a5eac7b50e780b074ae5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/4e/f7/e84b1ba6a80e3496ad4c75298e442e40938f7b20aafa543a0ad95450e09b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/51/38/4396855952b8664ad7240b7e3d7a9e4a0544cc8cf9147c824f71202a79be" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/57/ca/1c02d2ba58d31fa545bf6097fa5f4f30b8df6ecd5ffc27ad299eb11b49be" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/5d/1e/4ad37e6733795c8caafbac3cb3c7ffc45ae58530d15a20d3af183e80d49c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/5f/50/a5a66eed087bb4e7bb2d0de2837e777aff2e890be626e25b20ee95038514" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/81/8b/5ccb8a62adeefb5074aca570f1c09683c77c784525c5f662f27f7e4fae42" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/89/d8/02e09660a9ed526d64dd0206d2ad598ac9668b2244f6fc9347e62b54a178" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/91/91/332494178a7f2b67cad54bc129cf36edc57d240765d3ee5c56cbc857bf90" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/a3/97/42ca27f7d40e1ca5abc0335aa5af971c50165eaf45354f3bbf4f9c87b932" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/cc/3b/80ee977f2533a424e708db277f1e0d2f70e8966fa30d9e1e024508648c0a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d8/8c/081e65fa4cdbe250552a9edcd56f508e00e5815b4019fb7ad74a7f76983f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/de/e0/497e40dbb500fd2fb11eb729edea8c83604efacd497a2872c797e5160284" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/df/34/bcf16e514735001b6a99f0870f96d90c6adaf8711857ebfe11125dc1500d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e1/fb/4821d863cff6cb6feafd05c4066ed1c61d4ae18f818892ebf4621c91b9d7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/fb/a7/e73bb42f3bbb5f843df51b1aa8e768d48c2c8392f84b1ef16d61e9dc301c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/050db1a688a13466692d484db418f870.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/15caa86c016783bb1274b2c07bf22e37.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1fd3a9c4968f6a0cd4fbadd9ef662ec3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/28bfa4a25539ecf4ca62c3b07923f0ec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/31b07558d40a6eaf1642a7c22cf3da9d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/31f67c335b072b875fac9e15875de878.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3a7197d2ecabf970dc8198429267f246.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/4931d1952734fd1d75cf51b785f48a27.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/4c7e493dac188eefc3e1ed00cc163ef4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/50a2423af5044ae524b84761ad066c3e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5454db719dfdfb3a926446d0090b4761.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5bb38aa8d082d63ab403a224377fb452.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/704cc7dee777d01788e4cfc92b8f228a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/90f95916e464e84970bfca8b5801d2e3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/92ef171d2632289772387f8069ca4a84.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/96783a43c42462092a0f7fc58ebb98fa.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/aa51db3b6a6faf4cedd06393496e4976.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/afe286c842507c2d95b9738f1071c8fb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/be8a3012de7c5472a7be3cb592721e18.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c070306c5063715385401b2c4a41a875.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c4c90abbe2fe4c17e2487c9d14f7368f.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c6340de1b3c66c5f597d3fba0d001c49.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c924dcf4d29bec4b6a954025e98503b6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c978a52dcec565612de6965efe106b48.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/cce974ee712a516ddca7070b2aa5d0c6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e744ab4c1412eea50f6c2a9ae1523b86.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ec60613c8e3750aa8beb28f2c0181f0e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ed63fd7eff2f370d933854f473ac5cf8.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f313ec140bf8ea26b8f19e49582fdec5.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f52dfc70438ab24f893227930b04c61e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/fb522ba6c8fa88027721b5405319a250.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/2.styles.6e43e593.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/styles.391728c0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.7dd05bc4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.4cd49919.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.b47d61e5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.5dbd03e0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.87811292.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.9f6bcfd5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/18.c1e5a6a8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.4a7bf563.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.6e43e593.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/20.75b436c8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/21.4c3c55ec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.4799fd4a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.64b390f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.d22f9b15.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.6c7f72fc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.20652c85.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.c2d02356.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.26c22d97.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.391728c0.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/base.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/collection.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/collection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/mapper.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/mapper.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/net.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/backend/java/utils/net.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/development/alwaysnew助手安装.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/development/alwaysnew助手安装.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/development/idea安装.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/development/idea安装.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/development/jdk安装.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/development/jdk安装.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/development/maven安装.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/development/maven安装.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/development/webstrom安装.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/development/webstrom安装.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew场景案例分析.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew场景案例分析.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew实施路径说明文档.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew实施路径说明文档.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew工具故障原因汇总及使用原则.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/document/AlwaysNew工具故障原因汇总及使用原则.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/VUE进阶一之发布第一个vue发布项目.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/VUE进阶一之发布第一个vue发布项目.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/css.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/css.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/html5.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/html5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/introduction.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/frontend/introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/test/jav/first.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/test/jav/first.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/dist/test/jav/second.html" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/test/jav/second.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/override.styl" afterPath="$PROJECT_DIR$/docs/.vuepress/override.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/frontend/VUE进阶一之发布第一个vue发布项目.md" afterPath="$PROJECT_DIR$/docs/frontend/VUE进阶一之发布第一个vue发布项目.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/frontend/html5.md" afterPath="$PROJECT_DIR$/docs/frontend/html5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/frontend/introduction.md" afterPath="$PROJECT_DIR$/docs/frontend/introduction.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/override.styl" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/override.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/00b11fa66f22ccfcd1afc8deb4a39059.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/00b11fa66f22ccfcd1afc8deb4a39059.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/051c7adad3da7dba2275a11d8ed6b9de.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/051c7adad3da7dba2275a11d8ed6b9de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/0ee810a6609d0bccecaee78b9e628f54.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/0ee810a6609d0bccecaee78b9e628f54.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/17a7be5bd738eb770514a5fa27257010.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/17a7be5bd738eb770514a5fa27257010.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1ed55fa5d0257600036dacb8d50b0ffe.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1ed55fa5d0257600036dacb8d50b0ffe.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2be4832630f8d76b3a894a81997f3961.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2be4832630f8d76b3a894a81997f3961.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2cd0f08a1c64c8eee5193ba8d4ac9ab1.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2cd0f08a1c64c8eee5193ba8d4ac9ab1.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/360a3618a155a12a88d0a327d0830942.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/360a3618a155a12a88d0a327d0830942.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/37e159a6e32dd28338f6c47c85da09c4.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/37e159a6e32dd28338f6c47c85da09c4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3fc99bbc6115211154871e9d0552fe76.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3fc99bbc6115211154871e9d0552fe76.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/417c40d20c39feb98cac8c79e49c079d.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/417c40d20c39feb98cac8c79e49c079d.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/48c4824e05b7c3695ebd1ba815ffc81c.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/48c4824e05b7c3695ebd1ba815ffc81c.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5463d2a3f3d49fec95c09655c18f2924.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5463d2a3f3d49fec95c09655c18f2924.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5da4a31b0cc1cbbbdc78598c6716ced3.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5da4a31b0cc1cbbbdc78598c6716ced3.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6b8f4fcaacf99c9b2833e31a98cb4f49.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6b8f4fcaacf99c9b2833e31a98cb4f49.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7a27dd5e2420d69c7073438de2f4b4e5.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7a27dd5e2420d69c7073438de2f4b4e5.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7d9c96507ef89d57df38b039a6ab8e64.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7d9c96507ef89d57df38b039a6ab8e64.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8949774915960d62705ed6154518d587.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8949774915960d62705ed6154518d587.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/9c6782ab5bbc38aebb503f728eaa12f0.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/9c6782ab5bbc38aebb503f728eaa12f0.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a46382c5895b0f6b540ca0b621b138db.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a46382c5895b0f6b540ca0b621b138db.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a4efa85b461675a78fb2597fb46b30ab.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a4efa85b461675a78fb2597fb46b30ab.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a6eadb54008fb79002cf71aac2206172.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a6eadb54008fb79002cf71aac2206172.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/aac9928d18898b95f860dac16f6cd081.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/aac9928d18898b95f860dac16f6cd081.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/bd9019f076aea1b05b26b69eec6383ea.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/bd9019f076aea1b05b26b69eec6383ea.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c3cb55ff1aa566a6b3e4e1ed11c343f3.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c3cb55ff1aa566a6b3e4e1ed11c343f3.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/cf7377ce58b82876db8cecfd2e419d88.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/cf7377ce58b82876db8cecfd2e419d88.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/cf76bf36aedf7d49bfdf6a30fbec2dc7.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/cf76bf36aedf7d49bfdf6a30fbec2dc7.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d2d033dd7cc24f309fcf3342ced5d2f2.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d2d033dd7cc24f309fcf3342ced5d2f2.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dfbbfa3f47f994b2c7580af210f3c40e.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dfbbfa3f47f994b2c7580af210f3c40e.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e1b23569bb2148a481a90d4186211d6b.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e1b23569bb2148a481a90d4186211d6b.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e53f55f52ea2413122705f0b7586e96e.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e53f55f52ea2413122705f0b7586e96e.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f62919bba9db9b996febdd1e9a7fe56a.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f62919bba9db9b996febdd1e9a7fe56a.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f987939ecabc4c971deffbb7bfe43761.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f987939ecabc4c971deffbb7bfe43761.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -208,8 +20,8 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="236">
+              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -632,7 +444,7 @@
       <workItem from="1539658518829" duration="313000" />
       <workItem from="1539659106337" duration="13000" />
       <workItem from="1539659602373" duration="15692000" />
-      <workItem from="1539745463222" duration="11609000" />
+      <workItem from="1539745463222" duration="12417000" />
     </task>
     <task id="LOCAL-00001" summary="版本1.0.1">
       <created>1539581025077</created>
@@ -648,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539667109624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="vuepress爬坑篇之搭建个人博客">
+      <created>1539764063663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539764063663</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61451000" />
+    <option name="totallyTimeSpent" value="62259000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -719,7 +538,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="版本1.0.1" />
     <MESSAGE value="版本1.0.1-全局搜索" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本1.0.1-全局搜索" />
+    <MESSAGE value="vuepress爬坑篇之搭建个人博客" />
+    <option name="LAST_COMMIT_MESSAGE" value="vuepress爬坑篇之搭建个人博客" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -971,6 +791,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
           <caret line="85" column="12" lean-forward="false" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -978,6 +799,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="819" lean-forward="false" selection-start-line="13" selection-start-column="819" selection-end-line="13" selection-end-column="829" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -985,6 +807,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="846" lean-forward="false" selection-start-line="19" selection-start-column="846" selection-end-line="19" selection-end-column="846" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,8 +956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="236">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
           <folding />
         </state>
       </provider>
