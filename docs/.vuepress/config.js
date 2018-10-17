@@ -54,7 +54,8 @@ module.exports = {
                     ['/frontend/introduction', '前端介绍'],
                     ['/frontend/VUE进阶一之发布第一个vue发布项目', 'VUE进阶一之发布第一个vue发布项目'],
                     ['/frontend/html5', 'HTML5'],
-                    ['/frontend/css', 'CSS']
+                    ['/frontend/css', 'CSS'],
+                    ['/frontend/vuepress爬坑篇之搭建个人博客', 'vuepress爬坑篇之搭建个人博客'],
                 ]
             },
             {
@@ -82,6 +83,7 @@ module.exports = {
                     ['/document/AlwaysNew场景案例分析', 'AlwaysNew场景案例分析'],
                     ['/document/AlwaysNew实施路径说明文档', 'AlwaysNew实施路径说明文档'],
                     ['/document/AlwaysNew工具故障原因汇总及使用原则', 'AlwaysNew工具故障原因汇总及使用原则'],
+                    ['/document/AlwaysNew最佳实践手册', 'AlwaysNew2.0最佳实践手册']
                 ]
             },
             {

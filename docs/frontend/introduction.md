@@ -1,5 +1,5 @@
- 
-### 前端算法：
+
+## 前端算法：
 
 文档会将算法按照**难度分级**，代码中都有**详细注释**，且会提供**多种解法**。
 
@@ -10,8 +10,6 @@
 **文档长这样：**
 
 ![](http://ww1.sinaimg.cn/large/005Y4rCogy1fvicymvh7nj30s30eg3z8.jpg)
-
-### 觉得还不错的话，点一个Star ⭐️ 吧~
 
 ### 前端积累:
 
@@ -84,3 +82,5 @@
 [水仙花数](http://obkoro1.com/web_accumulate/algorithm/induction/%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0.html)
 
 [反转一个 3 位整数](http://obkoro1.com/web_accumulate/algorithm/induction/%E5%8F%8D%E8%BD%AC3%E4%BD%8D%E6%95%B4%E6%95%B0.html)
+
+### 觉得还不错的话，点一个Star ⭐️ 吧~
