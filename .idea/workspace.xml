@@ -446,7 +446,7 @@
       <workItem from="1539659106337" duration="13000" />
       <workItem from="1539659602373" duration="15692000" />
       <workItem from="1539745463222" duration="18707000" />
-      <workItem from="1539847816777" duration="607000" />
+      <workItem from="1539847816777" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="版本1.0.1">
       <created>1539581025077</created>
@@ -490,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539824168835</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="vuepress爬坑篇之搭建个人博客-git脚本">
+      <created>1539849318712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539849318712</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69156000" />
+    <option name="totallyTimeSpent" value="69175000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
