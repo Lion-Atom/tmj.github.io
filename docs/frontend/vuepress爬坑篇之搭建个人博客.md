@@ -213,10 +213,81 @@ module.exports = {
 ***注意***：确保 fallback 侧边栏被最后定义。VuePress 会按顺序遍历侧边栏配置来寻找匹配的配置。
 #### 自动生成侧栏
 如果你希望自动生成一个仅仅包含了当前页面标题（headers）链接的侧边栏，你可以通过 YAML front matter 来实现：
+
 ````bush
----
 sidebar: auto
----
 `````
 也可以在config.js中themeConfig同样使用*sidebar:auto*里面全局定义它。
+#### git部署
+默认已经本地已建git仓库，没有的话可参考Git的安装及使用进行详细说明的[文档](https://git-scm.com/downloads/)。
+#### 第一步：创建本地仓库用于push到远处仓库
+终端进入项目所在目录，输入：
+````bush
+git init
+git add -A
+git commit -m 'deploy'
+````
+#### 第二步：为当前用户（我的是root用户）创建ssh连接公钥，并将公钥添加在添加在个人的Git@OSC账号下，用于向远程服务器push时的验证
+参见其它文章，不再详述。
+#### 第三步：为StudyGit项目添加远程仓库，并将本地仓库中代码push到远程仓库：
+````bush
+git remote add origin 你的远程库地址 //origin是仓库别称可自行定义；
+如：git remote add origin https://github.com/Lion-Atom/tmj.github.io
+````
+如果提示SSL未开启错误，我们可以借助下面两行代码避开：
+````bush
+git config --global http.proxy
+git config --global --unset http.proxy
+````
+然后你就可以push了！
+#### 第四步（可选）：Git 仓库和编辑链接
+当你提供了 themeConfig.repo 选项，将会自动在每个页面的导航栏生成生成一个 GitHub 链接，以及在页面的底部生成一个 "Edit this page" 链接。
+````bush
+// .vuepress/config.js
+module.exports = {
+  themeConfig: {
+    // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
+    repo: 'vuejs/vuepress',
+    // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
+    // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
+    repoLabel: '查看源码',
 
+    // 以下为可选的编辑链接选项
+
+    // 假如你的文档仓库和项目本身不在一个仓库：
+    docsRepo: 'vuejs/vuepress',
+    // 假如文档不是放在仓库的根目录下：
+    docsDir: 'docs',
+    // 假如文档放在一个特定的分支下：
+    docsBranch: 'master',
+    // 默认是 false, 设置为 true 来启用
+    editLinks: true,
+    // 默认为 "Edit this page"
+    editLinkText: '帮助我们改善此页面！'
+  }
+}
+````
+可以参考作者的自定义配置：
+````bush
+ repo: 'Lion-Atom/tmj.github.io'
+ repoLabel: '查看源码',
+ docsRepo: 'Lion-Atom/tmj.github.io',//远程仓库地址
+ docsDir: 'docs',
+ docsBranch: 'master', //远程git所属分支名称
+ // 默认是 false, 设置为 true 来启用
+ editLinks: true,
+ editLinkText: '帮助我们改善此页面！',
+ serviceWorker: {
+     updatePopup: true
+ },
+````
+
+### 注意事项(坑)
+- 把你想引用的资源都放在.vuepress目录下的public文件夹
+- 给git仓库绑定了独立域名后,记得修改base路径
+- 设置侧边栏分组后默认会自动生成 上/下一篇链接
+- 设置了自动生成侧边栏会把侧边栏分组覆盖掉
+- 设置PWA记得开启SSL
+## 附录
+Git命令速查表：
+![Git命令速查表](/git命令速查表.png)

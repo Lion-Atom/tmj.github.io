@@ -17,8 +17,28 @@ module.exports = {
         lastUpdated: 'Last Updated',// 文档更新时间：每个文件git最后提交的时间
         search: true,
         searchMaxSuggestions: 10,
+        // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
+        repo: 'Lion-Atom/tmj.github.io',
+        // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
+        // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
+        repoLabel: '查看源码',
+
+        // 以下为可选的编辑链接选项
+
+        // 假如你的文档仓库和项目本身不在一个仓库：
+        docsRepo: 'Lion-Atom/tmj.github.io',
+        // 假如文档不是放在仓库的根目录下：
+        docsDir: 'docs',
+        // 假如文档放在一个特定的分支下：
+        docsBranch: 'master',
+        // 默认是 false, 设置为 true 来启用
+        editLinks: true,
+        // 默认为 "Edit this page"
+        editLinkText: '帮助我们改善此页面！',
         serviceWorker: {
             updatePopup: true
+            // 开启 themeConfig.serviceWorker.updatePopup 选项，将开启一个能够刷新内容的弹窗。
+            // 当网站更新（即 Service Worker 更新）时，它会提供一个 refresh 按钮，允许用户立刻刷新内容。
         },
         nav: [
             {text: '主页', link: '/'},
