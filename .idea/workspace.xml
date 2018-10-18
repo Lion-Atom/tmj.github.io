@@ -20,7 +20,14 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/install-next.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/public/open-project.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-share-vuepress" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/static/.gitkeep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-utils-java-vuepress" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/ieee754/dist/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/src/assets/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/static/.gitkeep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/advanced-course/动态内存.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/advanced-course/命名空间.html" />
@@ -624,9 +631,1223 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8414bdb6fe72e71fdf0c0b0f4a127c46.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/843694fb03fb574d9e645eb64d83e5b3.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/84c88a2348af87b848370246ceee9db9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/.postcssrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-doc-vuepress/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/.idea/winning-pts-vuepress-demo.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/helper-plugin-utils/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/helper-plugin-utils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/helper-plugin-utils/src/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/helper-plugin-utils/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-decorators/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-decorators/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-decorators/lib/transformer-legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-decorators/lib/transformer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-decorators/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-export-namespace-from/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-export-namespace-from/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-export-namespace-from/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-numeric-separator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-numeric-separator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-object-rest-spread/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-object-rest-spread/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-optional-catch-binding/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-optional-catch-binding/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-optional-catch-binding/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-throw-expressions/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-throw-expressions/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-proposal-throw-expressions/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-async-generators/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-async-generators/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-async-generators/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-class-properties/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-class-properties/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-class-properties/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-decorators/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-decorators/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-decorators/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-dynamic-import/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-dynamic-import/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-dynamic-import/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-export-namespace-from/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-export-namespace-from/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-export-namespace-from/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-function-sent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-function-sent/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-function-sent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-import-meta/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-import-meta/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-import-meta/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-jsx/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-jsx/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-jsx/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-numeric-separator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-numeric-separator/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-numeric-separator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-object-rest-spread/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-object-rest-spread/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-object-rest-spread/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-optional-catch-binding/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-optional-catch-binding/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-optional-catch-binding/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-throw-expressions/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-throw-expressions/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-syntax-throw-expressions/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-arrow-functions/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-arrow-functions/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-arrow-functions/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-block-scoped-functions/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-block-scoped-functions/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-block-scoped-functions/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-computed-properties/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-computed-properties/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-computed-properties/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-destructuring/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-destructuring/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-destructuring/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-duplicate-keys/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-duplicate-keys/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-duplicate-keys/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-for-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-for-of/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-for-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-literals/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-literals/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-literals/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-new-target/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-new-target/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-new-target/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-shorthand-properties/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-shorthand-properties/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-shorthand-properties/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-spread/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-spread/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-spread/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-typeof-symbol/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-typeof-symbol/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@babel/plugin-transform-typeof-symbol/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/adapters/fs.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/adapters/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/managers/options.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/managers/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/providers/stat.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/out/providers/stat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@nodelib/fs.stat/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/src/inspector-log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/node_modules/ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/src/inspector-log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/node_modules/ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@shellscape/koa-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/definitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/node-helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/node-path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/nodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/signatures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/transform/denormalize-type-references/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/transform/wast-identifier-to-index/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/traverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/types/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/types/nodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/types/traverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/esm/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/definitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/node-helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/node-path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/nodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/signatures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/transform/denormalize-type-references/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/transform/wast-identifier-to-index/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/traverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/types/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/types/nodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/types/traverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/scripts/generateNodeUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/scripts/generateTypeDefinitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ast/scripts/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/floating-point-hex-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/floating-point-hex-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/floating-point-hex-parser/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/floating-point-hex-parser/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/floating-point-hex-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-api-error/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-api-error/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-api-error/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-api-error/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-buffer/esm/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-buffer/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-buffer/lib/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-buffer/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-code-frame/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-code-frame/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-code-frame/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-code-frame/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-fsm/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-fsm/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-fsm/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-fsm/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-module-context/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-module-context/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-module-context/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-module-context/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-module-context/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-module-context/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-bytecode/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-bytecode/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-bytecode/esm/section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-bytecode/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-bytecode/lib/section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/esm/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/esm/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/esm/resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/lib/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/lib/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/lib/resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/helper-wasm-section/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ieee754/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ieee754/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ieee754/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ieee754/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/ieee754/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/esm/bits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/esm/bufs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/esm/leb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/lib/bits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/lib/bufs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/lib/leb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/leb128/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/esm/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/esm/encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/lib/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/lib/encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/src/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/src/encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/utf8/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/esm/apply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/lib/apply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-edit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-gen/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-gen/esm/encoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-gen/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-gen/lib/encoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-gen/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-gen/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-opt/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-opt/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-opt/esm/leb128.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-opt/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-opt/lib/leb128.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-opt/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/esm/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/esm/types/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/lib/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/lib/types/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wasm-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/esm/grammar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/esm/number-literals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/esm/string-literals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/esm/tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/lib/grammar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/lib/number-literals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/lib/string-literals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/lib/tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-printer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-printer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-printer/esm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-printer/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webassemblyjs/wast-printer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/example/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/all_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/dash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/default_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/dotted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/kv_short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/num.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/parse_modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/stop_early.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/unknown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/node_modules/minimist/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/config-loader/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/strip-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/strip-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/strip-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/node_modules/strip-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@webpack-contrib/schema-utils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/ieee754/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/ieee754/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/ieee754/dist/index.cjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/ieee754/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/ieee754/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/dist/long.cjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/dist/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/dist/long.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/@xtuc/long/src/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/abbrev/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/abbrev/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/abbrev/abbrev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/abbrev/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/lib/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/lib/walk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/src/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn-dynamic-import/src/walk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/bin/_acorn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/bin/acorn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/bin/run_test262.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/bin/test262.whitelist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/acorn.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/acorn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/acorn_loose.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/acorn_loose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/walk.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/dist/walk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/acorn/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/lib/_http_agent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/lib/agent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/lib/https_agent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/agentkeepalive/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/lib/dot/errorMessage.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/lib/dotjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/lib/dotjs/errorMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/_formatLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/_util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/deepProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/deepRequired.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dot/_formatLimit.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dot/patternRequired.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dot/switch.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dotjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dotjs/_formatLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dotjs/patternRequired.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dotjs/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/dynamicDefaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/formatMaximum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/formatMinimum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/instanceof.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/patternRequired.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/prohibited.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/typeof.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/keywords/uniqueItemProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ajv-keywords/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/src/inspector-log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/node_modules/ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/algoliasearch/reactnative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/alphanum-sort/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/alphanum-sort/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/alphanum-sort/lib/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/alphanum-sort/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/alphanum-sort/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/amdefine/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/amdefine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/amdefine/amdefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/amdefine/intercept.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/amdefine/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-colors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-colors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-colors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-colors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-colors/symbols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-colors/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-escapes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-escapes/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-escapes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-escapes/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/implementation.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/implementation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/optional.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/bluebird.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/bluebird.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/es6-promise.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/es6-promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/lie.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/lie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/native-promise-only.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/native-promise-only.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/pinkie.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/pinkie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/promise.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/q.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/rsvp.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/rsvp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/vow.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/vow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/when.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/any-promise/register/when.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/arr-diff/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/arr-diff/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/arr-diff/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/arr-diff/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/array-unique/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/array-unique/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/array-unique/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/array-unique/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/src/inspector-log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/expand-brackets/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/node_modules/define-property/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/node_modules/define-property/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/node_modules/define-property/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/node_modules/define-property/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/extglob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-accessor-descriptor/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-accessor-descriptor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-accessor-descriptor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-accessor-descriptor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-data-descriptor/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-data-descriptor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-data-descriptor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-data-descriptor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-descriptor/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-descriptor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-descriptor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/is-descriptor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/isobject/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/isobject/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/isobject/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/isobject/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/isobject/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/kind-of/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/node_modules/ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/anymatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/browser-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/coverage.lcov" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/lib/app-root-path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/lib/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/app-root-path/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/aproba/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/aproba/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/aproba/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/aproba/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arch/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arrify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arrify/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arrify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/arrify/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/support/isBuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/support/isBufferBrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/browser/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/browser/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/node/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/node/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/node/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/node/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/test/node/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/node_modules/util/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/assert/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/coverage.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov-report/sorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/coverage/lcov.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/async-limiter/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/balanced-match/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/balanced-match/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/balanced-match/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/balanced-match/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/balanced-match/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/base64js.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/test/big-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/test/convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/test/corrupt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/base64-js/test/url-safe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/big.js/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/big.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/big.js/big.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/big.js/big.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/big.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/camelcase/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/camelcase/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/camelcase/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/camelcase/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/lib/colourNames.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/lib/colourType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/lib/stripWhitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/lib/toLonghand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/lib/toShorthand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/dist/lib/trimLeadingZero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colormin/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/ReadMe.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/examples/normal-usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/examples/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/custom/trap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/custom/zalgo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/extendStringPrototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/maps/america.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/maps/rainbow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/maps/random.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/maps/zebra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/lib/system/supports-colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/safe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/colors/themes/generic-logging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/consolidate/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/consolidate/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/consolidate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/consolidate/lib/consolidate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/consolidate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/copy-descriptor/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/copy-descriptor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/copy-descriptor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-color-names/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-color-names/css-color-names.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-color-names/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/compile-exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/createResolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/css-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/getImportPrefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/getLocalIdent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/localsLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/processCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/lib/url/escape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/locals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/has-flag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/has-flag/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/has-flag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/has-flag/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/docs/guidelines/plugin.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/docs/guidelines/runner.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/docs/source-maps.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/docs/syntax.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/at-rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/css-syntax-error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/declaration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/lazy-result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/postcss.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/postcss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/previous-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/processor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/stringifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/terminal-highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/tokenize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/warn-once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/lib/warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/postcss/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/supports-color/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/css-loader/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/evenValues.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/filterOptimiser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/functionOptimiser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/getArguments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/getMatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/normalizeString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/normalizeUnicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/reduceBackgroundRepeat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/reduceDisplayValues.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/reducePositions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/reduceTimingFunctions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/dist/lib/styleCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/at-rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/autoprefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/brackets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/browsers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/declaration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/background-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/block-logical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/border-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/border-radius.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/break-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/cross-fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/display-flex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/filter-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/flex-flow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/flex-grow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/flex-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/flex-values.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/flex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/gradient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/grid-row-align.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/grid-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/inline-logical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/mask-border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/pixelated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/stretch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/text-emphasis-position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/hacks/writing-mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/old-selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/old-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/prefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/prefixes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/processor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/resolution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/supports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/lib/value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/autoprefixer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/has-flag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/has-flag/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/has-flag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/has-flag/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/docs/guidelines/plugin.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/docs/guidelines/runner.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/docs/source-maps.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/docs/syntax.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/at-rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/css-syntax-error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/declaration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/lazy-result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/postcss.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/postcss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/previous-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/processor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/stringifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/terminal-highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/tokenize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/warn-once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/lib/warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/node_modules/postcss/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/cssnano/quickstart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/example/cmp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/lib/is_arguments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/lib/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/deep-equal/test/cmp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/demo/delegate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/demo/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/demo/undelegate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/dist/delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/src/closest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/src/delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/test/closest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/delegate/test/delegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/node_modules/domelementtype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/node_modules/domelementtype/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/node_modules/domelementtype/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/dom-serializer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/lib/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/lib/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/lib/querying.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/lib/traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/test/fixture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/test/tests/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/test/tests/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/test/tests/traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/domutils/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/bin/envify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/LICENSE.BSD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/bin/esparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/bin/esvalidate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/dist/esprima.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/node_modules/esprima/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/envify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/error-ex/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/error-ex/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/error-ex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/error-ex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/LICENSE.BSD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/bin/esparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/bin/esvalidate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/esprima.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/esprima/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/foreach/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/glob-to-regexp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/glob-to-regexp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/glob-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/glob-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/glob-to-regexp/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/demo/destroy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/demo/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/demo/node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/demo/nodelist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/demo/selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/dist/good-listener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/src/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/src/listen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/test/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/good-listener/test/listen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-flag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-flag/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-flag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-flag/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/is-number/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/has-values/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/html-comment-regex/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/html-comment-regex/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/html-comment-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/html-comment-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/CollectingHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/FeedHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/Parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/ProxyHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/Stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/Tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/WritableStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/entities/decode.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/entities/entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/entities/legacy.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/entities/xml.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/00-runtests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/02-dom_utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/DomUtils/01-by_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/DomUtils/02-by_tagname.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/DomUtils/03-by_type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/DomUtils/04-outer_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/domutils/tests/DomUtils/05-inner_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/isarray/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/string_decoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/01-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/02-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/03-feed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Documents/Atom_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Documents/Attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Documents/Basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Documents/RDF_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Documents/RSS_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/01-simple.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/02-template.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/03-lowercase_tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/04-cdata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/05-cdata-special.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/06-leading-lt.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/07-self-closing.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/08-implicit-close-tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/09-attributes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/10-crazy-attrib.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/11-script_in_script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/12-long-comment-end.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/13-long-cdata-end.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/14-implicit-open-tags.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/15-lt-whitespace.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/16-double_attribs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/17-numeric_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/18-legacy_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/19-named_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/20-xml_entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/21-entity_in_attribute.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Events/22-double_brackets.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Feeds/01-rss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Feeds/02-atom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Feeds/03-rdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Stream/01-basic.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Stream/02-RSS.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Stream/03-Atom.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Stream/04-RDF.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/Stream/05-Attributes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/htmlparser2/test/test-helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/icss-replace-symbols/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/icss-replace-symbols/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/icss-replace-symbols/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/icss-replace-symbols/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/dist/immediate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/dist/immediate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/lib/messageChannel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/lib/mutation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/lib/nextTick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/lib/stateChange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/lib/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/immediate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/imurmurhash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/imurmurhash/imurmurhash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/imurmurhash/imurmurhash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/imurmurhash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/.istanbul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-arrayish/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-ci/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-ci/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-ci/bin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-ci/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-demo/node_modules/is-ci/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/.postcssrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/check-versions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/vue-loader.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/webpack.base.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/webpack.dev.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/build/webpack.prod.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/config/dev.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/config/prod.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/config/test.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/src/App.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/src/components/HelloWorld.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/src/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/test/e2e/custom-assertions/elementCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/test/e2e/nightwatch.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/test/e2e/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../winning-pts-vuepress-webvue/test/e2e/specs/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/07966ff600fc94c6fdf26517293b9e51.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/07966ff600fc94c6fdf26517293b9e51.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1261ebc8cf18877e96f459a9e4e85ff4.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1261ebc8cf18877e96f459a9e4e85ff4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/30d2841cbb71e3ead9b9e7f1321585b9.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/30d2841cbb71e3ead9b9e7f1321585b9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b37ab06763bca4b107596a71466f2ac2.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b37ab06763bca4b107596a71466f2ac2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c623fe9e8e07ef8d952cbd93b71c6472.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c623fe9e8e07ef8d952cbd93b71c6472.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dae4f738c3c775df9134de26963c91b5.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dae4f738c3c775df9134de26963c91b5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ec71f12669efc35155bb786b16a37640.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ec71f12669efc35155bb786b16a37640.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -654,8 +1875,8 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="354">
+              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -778,7 +1999,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -843,6 +2067,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -901,32 +2127,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="winning-pts-c++-vuepress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="winning-pts-c++-vuepress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value=".vuepress" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -934,7 +2140,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1042,7 +2248,8 @@
       <workItem from="1539658519573" duration="312000" />
       <workItem from="1539659103096" duration="15000" />
       <workItem from="1539659605125" duration="20450000" />
-      <workItem from="1539841055734" duration="371000" />
+      <workItem from="1539841055734" duration="963000" />
+      <workItem from="1539844278996" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="C++平台">
       <created>1539841231129</created>
@@ -1055,21 +2262,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26533000" />
+    <option name="totallyTimeSpent" value="27867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24627976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25859246" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2569558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1081,6 +2287,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1568,8 +2800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="354">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding />
         </state>
       </provider>
