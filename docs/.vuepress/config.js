@@ -17,6 +17,9 @@ module.exports = {
         lastUpdated: 'Last Updated',// 文档更新时间：每个文件git最后提交的时间
         search: true,
         searchMaxSuggestions: 10,
+        serviceWorker: {
+            updatePopup: true
+        },
         nav: [
             {text: '主页', link: '/'},
             {text: '前端文档', link: '/frontend/introduction'},
