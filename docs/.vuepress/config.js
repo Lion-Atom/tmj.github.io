@@ -20,7 +20,7 @@ module.exports = {
         search: true,
         searchMaxSuggestions: 10,
         // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-        repo: 'Lion-Atom/tmj.github.io',
+        repo: 'Lion-Atom/tmj.github.io/tree/cpp',
         // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
         // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
         repoLabel: '查看源码',
@@ -61,6 +61,18 @@ module.exports = {
                 '常量',
                 '修饰符类型',
                 '存储类',
+                '运算符',
+                '循环',
+                '判断',
+                '函数',
+                '数字',
+                '数组',
+                '字符串',
+                '指针',
+                '引用',
+                '日期与时间',
+                '基本的输入输出',
+                '数据结构'
             ],
             '/object-oriented/':[
                 '类与对象',

@@ -2,7 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acc48823-b4eb-4e4e-9c53-34354bbc5749" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/函数.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/判断.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/基本的输入输出.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/字符串.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/引用.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/循环.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/指针.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/数字.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/数据结构.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/数组.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/日期与时间.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/base/运算符.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/override.styl" afterPath="$PROJECT_DIR$/docs/.vuepress/override.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/advanced-course/动态内存.md" afterPath="$PROJECT_DIR$/docs/advanced-course/动态内存.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/advanced-course/命名空间.md" afterPath="$PROJECT_DIR$/docs/advanced-course/命名空间.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/advanced-course/异常处理.md" afterPath="$PROJECT_DIR$/docs/advanced-course/异常处理.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/advanced-course/文件和流.md" afterPath="$PROJECT_DIR$/docs/advanced-course/文件和流.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/修饰符类型.md" afterPath="$PROJECT_DIR$/docs/base/修饰符类型.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/变量作用域.md" afterPath="$PROJECT_DIR$/docs/base/变量作用域.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/变量类型.md" afterPath="$PROJECT_DIR$/docs/base/变量类型.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/基本语法.md" afterPath="$PROJECT_DIR$/docs/base/基本语法.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/存储类.md" afterPath="$PROJECT_DIR$/docs/base/存储类.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/常量.md" afterPath="$PROJECT_DIR$/docs/base/常量.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/数据类型.md" afterPath="$PROJECT_DIR$/docs/base/数据类型.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/注释.md" afterPath="$PROJECT_DIR$/docs/base/注释.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/base/环境设置.md" afterPath="$PROJECT_DIR$/docs/base/环境设置.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/多态.md" afterPath="$PROJECT_DIR$/docs/object-oriented/多态.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/抽象类接口.md" afterPath="$PROJECT_DIR$/docs/object-oriented/抽象类接口.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/数据封装.md" afterPath="$PROJECT_DIR$/docs/object-oriented/数据封装.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/数据抽象.md" afterPath="$PROJECT_DIR$/docs/object-oriented/数据抽象.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/类与对象.md" afterPath="$PROJECT_DIR$/docs/object-oriented/类与对象.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/继承.md" afterPath="$PROJECT_DIR$/docs/object-oriented/继承.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md" afterPath="$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/resources/STL.md" afterPath="$PROJECT_DIR$/docs/resources/STL.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/resources/有用的资源.md" afterPath="$PROJECT_DIR$/docs/resources/有用的资源.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/resources/标准库.md" afterPath="$PROJECT_DIR$/docs/resources/标准库.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/07966ff600fc94c6fdf26517293b9e51.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/07966ff600fc94c6fdf26517293b9e51.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/07bf71a0b97d82c61d08f153427a3cf2.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/07bf71a0b97d82c61d08f153427a3cf2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/0b94a97e6ac60c44beb9515cc15cdc62.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/0b94a97e6ac60c44beb9515cc15cdc62.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/0fc6715616cf5887072e40a845e44d40.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/0fc6715616cf5887072e40a845e44d40.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/11c92a1e86b5c68e31bc95be4a834623.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/11c92a1e86b5c68e31bc95be4a834623.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1261ebc8cf18877e96f459a9e4e85ff4.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1261ebc8cf18877e96f459a9e4e85ff4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1af23d4675c3aa9209ddeda50a51852c.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1af23d4675c3aa9209ddeda50a51852c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1c427904c80c727edd8e2afdcef92e70.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1c427904c80c727edd8e2afdcef92e70.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1f0dd97d9b92ceae52630dcee4051b69.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/1f0dd97d9b92ceae52630dcee4051b69.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/20ded388a950d58c64b1e9397437a6a2.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/20ded388a950d58c64b1e9397437a6a2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2796bd05470b53a6c6df99255b07f648.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2796bd05470b53a6c6df99255b07f648.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2807dd41a51ee7c1b7a3a85896000607.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2807dd41a51ee7c1b7a3a85896000607.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2910cb739acab2d0eed73efa10643c0a.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2910cb739acab2d0eed73efa10643c0a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2a849c0158730ea6aea8ba31ae49c4d1.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2a849c0158730ea6aea8ba31ae49c4d1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2d7ae1a1ecad91fe581a4cad9c7df451.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2d7ae1a1ecad91fe581a4cad9c7df451.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2d9c35880eda2e1f662f7f9b520aeece.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/2d9c35880eda2e1f662f7f9b520aeece.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/30d2841cbb71e3ead9b9e7f1321585b9.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/30d2841cbb71e3ead9b9e7f1321585b9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3554bce1f54f431abe05e4a1064647e4.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3554bce1f54f431abe05e4a1064647e4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3a70682370ea6d7c4e98f9c7cbbd9a4d.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/3a70682370ea6d7c4e98f9c7cbbd9a4d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/462a21467fc457ec25737fb4904ef1ed.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/462a21467fc457ec25737fb4904ef1ed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/4ad02e25fff4715aececfe8eb57b3d78.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/4ad02e25fff4715aececfe8eb57b3d78.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/538fc19b5c56a58de625f7ea00b93f83.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/538fc19b5c56a58de625f7ea00b93f83.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/54f31c54155bf5310b0df66e306aa990.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/54f31c54155bf5310b0df66e306aa990.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/56ab9a3a7637670b31ec5b736cf9e551.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/56ab9a3a7637670b31ec5b736cf9e551.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5c29d819894d47f210395bcb1a890c42.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5c29d819894d47f210395bcb1a890c42.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5c98fdecb17f28dd632d1bdde8d2d681.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5c98fdecb17f28dd632d1bdde8d2d681.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5eb92265b0b7665115517f3d3d78ea83.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/5eb92265b0b7665115517f3d3d78ea83.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/669ecf02ca77d9d4ac29f3ccf5b58984.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/669ecf02ca77d9d4ac29f3ccf5b58984.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6afd3f81db6b30e8fd272e0c680deb64.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6afd3f81db6b30e8fd272e0c680deb64.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6c49b223e208e80b48f8eb0bbbe79343.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6c49b223e208e80b48f8eb0bbbe79343.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6d4e77b520ba3c43568df3238bfae199.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/6d4e77b520ba3c43568df3238bfae199.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/76389cc605e3cb7179d342fdef289782.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/76389cc605e3cb7179d342fdef289782.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7684deeec1fccc51939faeec428087be.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7684deeec1fccc51939faeec428087be.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/76fbb221c8e2d383f9b4695afdc264f6.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/76fbb221c8e2d383f9b4695afdc264f6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7adfb680ff46644cf8610b47265d1784.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7adfb680ff46644cf8610b47265d1784.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7f6db258de39230df75a4d1ea42bf78e.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7f6db258de39230df75a4d1ea42bf78e.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8ad1cb83b3c203a77d4d3987f7172b98.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8ad1cb83b3c203a77d4d3987f7172b98.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8b105f76e27b306063fecefee9c5ae42.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/8b105f76e27b306063fecefee9c5ae42.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/910022a34b698a128b9b49a36323f237.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/910022a34b698a128b9b49a36323f237.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/92184a9f45cfef6441c96b3cf59148d3.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/92184a9f45cfef6441c96b3cf59148d3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/99b7dfca5b9a4d7437b40066dd435331.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/99b7dfca5b9a4d7437b40066dd435331.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/9d28e632a497fe08804e20f999bcac86.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/9d28e632a497fe08804e20f999bcac86.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/9fad1a4a27bf91a216bb2f1e677506d1.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/9fad1a4a27bf91a216bb2f1e677506d1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a462dcfbea8259600685af48325e4e13.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a462dcfbea8259600685af48325e4e13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a49413888130771e1e22d23f94708999.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a49413888130771e1e22d23f94708999.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a65c9c331cd9ae67b773e065341360b3.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a65c9c331cd9ae67b773e065341360b3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a7344e0d216c16744422dc026855a7d1.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a7344e0d216c16744422dc026855a7d1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a8a9fc762f80b1c226a13786d3056281.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a8a9fc762f80b1c226a13786d3056281.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/aa86d529c98522d5343bac946eaf2f83.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/aa86d529c98522d5343bac946eaf2f83.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/af6f9be1d4096154e39d04dfb944dc47.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/af6f9be1d4096154e39d04dfb944dc47.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b2bcf818b5962b242f23e50f8a4c6c9a.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b2bcf818b5962b242f23e50f8a4c6c9a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b37ab06763bca4b107596a71466f2ac2.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b37ab06763bca4b107596a71466f2ac2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b599427861023ef9eb990ade4593ee9d.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b599427861023ef9eb990ade4593ee9d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b88fd3bddffd62c07eb5cbe831b92a70.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/b88fd3bddffd62c07eb5cbe831b92a70.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/bd27838d69d84d8fc2acac3d596cd50f.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/bd27838d69d84d8fc2acac3d596cd50f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c623fe9e8e07ef8d952cbd93b71c6472.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/c623fe9e8e07ef8d952cbd93b71c6472.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d3b48f163a6713a0b76e52f01dee0732.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d3b48f163a6713a0b76e52f01dee0732.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d5a272bf5054f0cdf483fee92b350d44.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d5a272bf5054f0cdf483fee92b350d44.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d76707d3fa7c05e48ff2ccf698a91bec.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/d76707d3fa7c05e48ff2ccf698a91bec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dae4f738c3c775df9134de26963c91b5.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dae4f738c3c775df9134de26963c91b5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dd93762cb63fde67975d1b99660b22d7.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dd93762cb63fde67975d1b99660b22d7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/decc9e9a986328f518e708881d09ed93.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/decc9e9a986328f518e708881d09ed93.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dfbe184999ce14e23ce19b62b198a541.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/dfbe184999ce14e23ce19b62b198a541.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e64f8fb641610758293c0a09ceaaaad5.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e64f8fb641610758293c0a09ceaaaad5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e71d93817dffbaa28a7141016f833b7a.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e71d93817dffbaa28a7141016f833b7a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e94cf295a5fc40afa8d94663bd9a9c56.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e94cf295a5fc40afa8d94663bd9a9c56.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/eb1f1f87f35b34b94f989d9ef6a93ef7.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/eb1f1f87f35b34b94f989d9ef6a93ef7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ebed838b4fde5cb84bd194390b033d95.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ebed838b4fde5cb84bd194390b033d95.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ec71f12669efc35155bb786b16a37640.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ec71f12669efc35155bb786b16a37640.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ee756bf44a6ba7fcae72f5cb382f24c8.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/ee756bf44a6ba7fcae72f5cb382f24c8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f7b59d834b07cf233a34c270308b1b83.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f7b59d834b07cf233a34c270308b1b83.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f9e6d02f5df20455ad8b109c95bc96c3.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/f9e6d02f5df20455ad8b109c95bc96c3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/fb7676bfbdf6db7e8e15796280b2b0a2.json" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/fb7676bfbdf6db7e8e15796280b2b0a2.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,32 +129,71 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="STL.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resources/STL.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="override.styl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/override.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="基本语法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/base/基本语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="异常处理.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/advanced-course/异常处理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="动态内存.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/advanced-course/动态内存.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -54,8 +205,8 @@
         <entry file="file://$PROJECT_DIR$/docs/base/环境设置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="817">
-                <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <first_editor relative-caret-position="247">
+                <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -63,74 +214,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="环境设置.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/base/环境设置.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-              <folding />
+      <file leaf-file-name="有用的资源.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/resources/有用的资源.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="存储类.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/base/存储类.md">
+      <file leaf-file-name="标准库.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/resources/标准库.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="171">
+                <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="重载运算符和重载函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="修饰符类型.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/base/修饰符类型.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="常量.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/base/常量.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="变量作用域.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/base/变量作用域.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="19" />
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -144,6 +259,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="vue File" />
         <option value="markdown" />
       </list>
     </option>
@@ -163,31 +279,45 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/docs/package.json" />
-        <option value="$PROJECT_DIR$/docs/base/变量类型.md" />
-        <option value="$PROJECT_DIR$/docs/base/基本语法.md" />
-        <option value="$PROJECT_DIR$/docs/base/数据类型.md" />
-        <option value="$PROJECT_DIR$/docs/base/注释.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/类与对象.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/继承.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/多态.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/数据抽象.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/数据封装.md" />
-        <option value="$PROJECT_DIR$/docs/object-oriented/抽象类接口.md" />
-        <option value="$PROJECT_DIR$/docs/advanced-course/异常处理.md" />
-        <option value="$PROJECT_DIR$/docs/advanced-course/动态内存.md" />
-        <option value="$PROJECT_DIR$/docs/advanced-course/命名空间.md" />
-        <option value="$PROJECT_DIR$/docs/resources/标准库.md" />
-        <option value="$PROJECT_DIR$/docs/resources/有用的资源.md" />
-        <option value="$PROJECT_DIR$/docs/base/变量作用域.md" />
-        <option value="$PROJECT_DIR$/docs/base/常量.md" />
-        <option value="$PROJECT_DIR$/docs/base/修饰符类型.md" />
-        <option value="$PROJECT_DIR$/docs/base/存储类.md" />
         <option value="$PROJECT_DIR$/docs/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/docs/resources/STL.md" />
-        <option value="$PROJECT_DIR$/docs/base/环境设置.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/docs/base/判断.md" />
+        <option value="$PROJECT_DIR$/docs/base/函数.md" />
+        <option value="$PROJECT_DIR$/docs/base/基本语法.md" />
+        <option value="$PROJECT_DIR$/docs/base/修饰符类型.md" />
+        <option value="$PROJECT_DIR$/docs/base/变量作用域.md" />
+        <option value="$PROJECT_DIR$/docs/base/变量类型.md" />
+        <option value="$PROJECT_DIR$/docs/base/基本的输入输出.md" />
+        <option value="$PROJECT_DIR$/docs/base/字符串.md" />
+        <option value="$PROJECT_DIR$/docs/base/存储类.md" />
+        <option value="$PROJECT_DIR$/docs/base/常量.md" />
+        <option value="$PROJECT_DIR$/docs/base/引用.md" />
+        <option value="$PROJECT_DIR$/docs/base/循环.md" />
+        <option value="$PROJECT_DIR$/docs/base/指针.md" />
+        <option value="$PROJECT_DIR$/docs/base/数字.md" />
+        <option value="$PROJECT_DIR$/docs/base/数据类型.md" />
+        <option value="$PROJECT_DIR$/docs/base/数据结构.md" />
+        <option value="$PROJECT_DIR$/docs/base/数组.md" />
+        <option value="$PROJECT_DIR$/docs/base/日期与时间.md" />
+        <option value="$PROJECT_DIR$/docs/base/注释.md" />
+        <option value="$PROJECT_DIR$/docs/base/运算符.md" />
+        <option value="$PROJECT_DIR$/docs/advanced-course/动态内存.md" />
+        <option value="$PROJECT_DIR$/docs/advanced-course/命名空间.md" />
+        <option value="$PROJECT_DIR$/docs/advanced-course/异常处理.md" />
+        <option value="$PROJECT_DIR$/docs/advanced-course/文件和流.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/多态.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/抽象类接口.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/数据封装.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/数据抽象.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/类与对象.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/继承.md" />
+        <option value="$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md" />
+        <option value="$PROJECT_DIR$/docs/resources/有用的资源.md" />
+        <option value="$PROJECT_DIR$/docs/resources/STL.md" />
+        <option value="$PROJECT_DIR$/docs/resources/标准库.md" />
+        <option value="$PROJECT_DIR$/docs/base/环境设置.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/override.styl" />
       </list>
     </option>
   </component>
@@ -263,6 +393,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winning-pts-c++-vuepress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winning-pts-c++-vuepress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-oriented" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winning-pts-c++-vuepress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winning-pts-c++-vuepress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winning-pts-c++-vuepress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winning-pts-c++-vuepress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="advanced-course" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -406,7 +590,7 @@
       <workItem from="1539659605125" duration="20450000" />
       <workItem from="1539841055734" duration="963000" />
       <workItem from="1539844278996" duration="1022000" />
-      <workItem from="1539845510789" duration="831000" />
+      <workItem from="1539845510789" duration="7856000" />
     </task>
     <task id="LOCAL-00001" summary="C++平台">
       <created>1539841231129</created>
@@ -429,11 +613,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539845544203</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="C++平台">
+      <created>1539846391199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539846391199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28978000" />
+    <option name="totallyTimeSpent" value="36003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="725" extended-state="0" />
@@ -500,114 +691,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -702,243 +785,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/override.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/advanced-course/文件和流.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/变量类型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/基本语法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/数据类型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/注释.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/多态.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/抽象类接口.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/数据封装.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/数据抽象.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/类与对象.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/继承.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/advanced-course/异常处理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/advanced-course/动态内存.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/advanced-course/命名空间.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resources/标准库.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resources/有用的资源.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/变量作用域.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/常量.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/存储类.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/base/修饰符类型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resources/STL.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -961,11 +812,391 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/判断.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/变量作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/基本的输入输出.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/变量类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/字符串.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/存储类.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/常量.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/引用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/循环.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/指针.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/数字.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/数据类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/数据结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/数组.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/日期与时间.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/注释.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/运算符.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/修饰符类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/advanced-course/命名空间.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/advanced-course/文件和流.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/多态.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/抽象类接口.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/数据封装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/数据抽象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/类与对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/继承.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/object-oriented/重载运算符和重载函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resources/有用的资源.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resources/STL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resources/标准库.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/advanced-course/动态内存.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/advanced-course/异常处理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/base/基本语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/base/环境设置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="817">
-            <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <first_editor relative-caret-position="247">
+            <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
@@ -974,8 +1205,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        <state relative-caret-position="297">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/override.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
