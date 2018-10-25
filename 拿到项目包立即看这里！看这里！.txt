@@ -1,0 +1,4 @@
+运行/预览：npm run docs:dev
+平台建设：平台如何建设具体可以查看【平台建设】,从首页点击入口进去即可看到
+运行前准备：node.js、npm已安装
+如有疑问请联系：仝敏杰 tmj@winning.com.cn
