@@ -193,6 +193,7 @@
         <option value="$PROJECT_DIR$/docs/README.md" />
         <option value="$PROJECT_DIR$/致读者.txt" />
         <option value="$PROJECT_DIR$/拿到项目包立即看这里！看这里！.txt" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -395,7 +396,7 @@
       <workItem from="1540169309361" duration="2168000" />
       <workItem from="1540194310731" duration="1337000" />
       <workItem from="1540261703808" duration="2249000" />
-      <workItem from="1540277272178" duration="15771000" />
+      <workItem from="1540277272178" duration="15814000" />
     </task>
     <task id="LOCAL-00001" summary="C++平台">
       <created>1539841231129</created>
@@ -481,11 +482,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540515166839</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Demo-C++平台-增加&quot;txt说明&quot;">
+      <created>1540515194884</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540515194884</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68493000" />
+    <option name="totallyTimeSpent" value="68536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="725" extended-state="0" />
