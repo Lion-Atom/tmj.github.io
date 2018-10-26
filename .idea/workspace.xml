@@ -385,7 +385,7 @@
       <workItem from="1540169309361" duration="2168000" />
       <workItem from="1540194310731" duration="1337000" />
       <workItem from="1540261703808" duration="2249000" />
-      <workItem from="1540277272178" duration="15605000" />
+      <workItem from="1540277272178" duration="15744000" />
     </task>
     <task id="LOCAL-00001" summary="C++平台">
       <created>1539841231129</created>
@@ -457,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540515006115</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Demo-C++平台-增加&quot;txt说明&quot;">
+      <created>1540515027115</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540515027115</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68327000" />
+    <option name="totallyTimeSpent" value="68466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="725" extended-state="0" />
