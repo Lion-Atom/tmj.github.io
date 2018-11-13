@@ -1,26 +1,26 @@
 /**
- * Created by Admin on 2018/11/12.
+ * Created by Admin on 2018/11/13.
  */
 import Vue from 'vue'
-import Echarts from './echarts.vue'
+import Admin from './admin.vue'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 // import VueRouter from 'vue-router'
-// import store from '../../vuex/store'
-// import Vuex from 'vuex'
-import router from '../../route/routesEcharts'
+import store from '../../vuex/store'
+import Vuex from 'vuex'
+import router from '../../route/routesAdmin'
 import Mock from '../../mock'
 
 Vue.use(ElementUI)
 // Vue.use(VueRouter)
-// Vue.use(Vuex)
+Vue.use(Vuex)
 
 const app3 = new Vue({
     //el: '#app',
     //template: '<App/>',
     router,
-    // store,
+    store,
     //components: { App }
-    render: h => h(Echarts)
-}).$mount('#echarts')
+    render: h => h(Admin)
+}).$mount('#admin')
 export default routers;

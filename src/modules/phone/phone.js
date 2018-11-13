@@ -1,7 +1,7 @@
 // import babelpolyfill from 'babel-polyfill'
 import Vue from 'vue'
 import Grid from './phone/Grid.vue'
-import Phone from './Phone.vue'
+import Phone from './phone.vue'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 // import VueRouter from 'vue-router'
