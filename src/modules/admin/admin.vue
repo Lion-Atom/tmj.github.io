@@ -12,7 +12,9 @@
                     <el-main>
                         <router-view></router-view>
                     </el-main>
-                    <el-footer style="bottom:0px;position: fixed;">Footer</el-footer>
+                    <el-footer style="bottom:0px;position: fixed;">
+                        <foot-bar></foot-bar>
+                    </el-footer>
                 </el-container>
             </el-container>
         </el-container>
@@ -23,10 +25,11 @@
 
 <script>
     import TopBar from './components/head-nav'
+    import FootBar from './components/foot-nav.vue'
 //    import SideBar from './components/left-nav.vue'
     export default {
         name: 'Admin',
-        components: {TopBar,},
+        components: {TopBar,FootBar},
     }
 </script>
 

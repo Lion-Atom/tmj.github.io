@@ -10,7 +10,9 @@ import store from '../../vuex/store'
 import Vuex from 'vuex'
 import router from '../../route/routesAdmin'
 import Mock from '../../mock'
-
+import 'vue-instant/dist/vue-instant.css'
+import VueInstant from 'vue-instant'
+Vue.use(VueInstant)
 Vue.use(ElementUI)
 // Vue.use(VueRouter)
 Vue.use(Vuex)
