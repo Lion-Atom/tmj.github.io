@@ -1,6 +1,9 @@
 <template>
     <div>
         <el-row>
+            <a href="http://localhost:8088/modules/index.html">跳转到Vue-Admin页面</a>
+        </el-row>
+        <el-row>
             <el-col :span="12">
                 <div id="pie_nest" style="width:100%;height:400px;"></div>
             </el-col>

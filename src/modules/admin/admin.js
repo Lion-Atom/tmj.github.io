@@ -12,6 +12,10 @@ import router from '../../route/routesAdmin'
 import Mock from '../../mock'
 import 'vue-instant/dist/vue-instant.css'
 import VueInstant from 'vue-instant'
+// import VueHighCharts from 'vue-highcharts'
+// Vue.use(VueHighCharts)
+
+
 Vue.use(VueInstant)
 Vue.use(ElementUI)
 // Vue.use(VueRouter)

@@ -14,58 +14,71 @@
             <div>
                 <el-table
                         :data="tableData"
-                        style="width: 100%">
+                        style="width: 100%;">
                     <el-table-column
-                            prop="date"
-                            label="日期"
+                            prop="duration"
+                            label="连接时长"
                             width="180">
                     </el-table-column>
                     <el-table-column
-                            prop="name"
-                            label="姓名"
+                            prop="dbName"
+                            label="数据库名"
                             width="180">
                     </el-table-column>
                     <el-table-column
-                            prop="address"
-                            label="地址">
+                            prop="programName"
+                            label="程序名称">
+                    </el-table-column>
+                    <el-table-column
+                            label="操作">
+                        <template slot-scope="scope">
+                            <el-button @click="handleClick(scope.row)" type="text" size="small">查看</el-button>
+                            <el-button type="text" size="small">编辑</el-button>
+                        </template>
                     </el-table-column>
                 </el-table>
             </div>
         </el-row>
+        <el-row>
 
+        </el-row>
     </section>
 </template>
 
 <script>
-    import VueInstant from 'vue-instant'
+    //    import VueInstant from 'vue-instant'  //不需要组建单独引入，已全局定义，可直接引用
     import axios from 'axios'
+    import { remoteCall } from "src/services/common/remoteCallService"
+
     export default{
         data(){
             return {
-                tableData: [{
-                    date: '2016-05-02',
-                    name: '王小虎',
-                    address: '上海市普陀区金沙江路 1518 弄'
-                }, {
-                    date: '2016-05-04',
-                    name: '王小虎',
-                    address: '上海市普陀区金沙江路 1517 弄'
-                }, {
-                    date: '2016-05-01',
-                    name: '王小虎',
-                    address: '上海市普陀区金沙江路 1519 弄'
-                }, {
-                    date: '2016-05-03',
-                    name: '王小虎',
-                    address: '上海市普陀区金沙江路 1516 弄'
-                }],
+                tableData: null,
                 value: '',
                 suggestionAttribute: 'original_title',
                 suggestions: [],
-                selectedEvent: ""
+                selectedEvent: "",
             }
         },
+        mounted(){
+          this.refreshChartData();
+        },
         methods: {
+            handleClick(row){
+//                alert(JSON.stringify(row))
+                this.$router.push(" ")
+            },
+//            YYCPZB-SVR0
+            refreshChartData(){
+                var _self = this;
+                var params = {
+                    instanceName:"YYCPZB-SVR0",
+                };
+                remoteCall("PTS.ITOM.MSSQL.LIST.DB.CONNECTION.REALTIME.LIST.01", params)
+                    .then(function (data) {
+                        _self.tableData = data.connectionInfoList;
+                    })
+            },
             clickInput () {
                 this.selectedEvent = 'click input'
             },
@@ -104,6 +117,32 @@
                         })
                     })
             },
+
         }
     }
 </script>
+<style scoped>
+    .dialog {
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        position: fixed;
+        width: 90%;
+    }
+
+    .dialog-content {
+        background: #fff;
+        border-radius: 8px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .dialog-fade-transition {
+        transition: opacity .3s linear;
+    }
+
+    .dialog-fade-enter,
+    .dialog-fade-leave {
+        opacity: 0;
+    }
+</style>
