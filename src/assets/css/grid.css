@@ -1,0 +1,30 @@
+.wrapper {
+    display: grid;
+    grid-template-columns:100px 100px 100px;
+    grid-template-rows:100px 100px;
+}
+.item1{
+    background-color: #009688;
+    /*grid-column-start: 1;*/
+    /*grid-column-end: 4;*/
+    grid-column: 1/3;
+}
+.item2{
+    background-color: #f00;
+}
+.item3{
+    background-color: #ae5c9d;
+    grid-row-start:2;
+    grid-row-end:4;
+}
+.item4{
+    background-color: #ff0;
+    grid-column-start:2;
+    grid-column-end:4;
+}
+.item5{
+    background-color: #0ff;
+}
+.item6{
+    background-color: #00f;
+}

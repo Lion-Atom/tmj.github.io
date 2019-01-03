@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "react demo",
   "main": "index.js",
+  "homepage":"index.html",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --quiet",
     "build": "webpack",
@@ -37,6 +38,7 @@
   },
   "dependencies": {
     "antd": "^1.3.0",
+    "echarts": "^4.2.0-rc.2",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-router": "^2.4.1"
