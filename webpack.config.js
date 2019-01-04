@@ -18,7 +18,7 @@ module.exports = {
                 loader: 'url-loader?limit=819200'
             },
             {
-                test: /\.js$/,
+                test: /\.js|jsx$/,
                 // excluding some local linked packages.
                 // for normal use cases only node_modules is needed.
                 exclude: /node_modules|vue\/dist|vue-router\/|vue-loader\/|vue-hot-reload-api\//,
@@ -28,10 +28,12 @@ module.exports = {
                 loader: 'style-loader!css-loader?sourceMap'
             },
             {
+
                 test: /\.scss$/,
                 loader: "style!css!sass?sourceMap"
             },
             {
+                // 匹配字体
                 test: /\.(woff|svg|eot|ttf)\??.*$/,
                 loader: 'url-loader?limit=50000&name=[path][name].[ext]'
             }

@@ -4,11 +4,18 @@
 import React,{Component} from 'react'
 export default class myAnimate extends Component{
 
+    componentDidMount(){
+        this.showThis();
+    }
+    showThis(){
+        console.log(this)
+    };
+
     render(){
         return(
             <div className="animate">
                 <div className="ani-box">
-                    <img src="./src/assets/images/face.jpg" width="100" className="animated fadeInUp lastPic" />
+                    <img src="./src/assets/images/face.png" width="100" className="animated fadeInUp lastPic" />
                     <span className="animated flipInX ege">我的头像</span>
                 </div>
                 <h2>本案例：react-antd的demo</h2>
