@@ -1,0 +1,13 @@
+@import '../../node_modules/antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.header .logo {
+  width: 150px;
+  height: 40px;
+  background: url(logo.png) no-repeat 0px 0px;
+  /*margin: 16px 28px 16px 0;*/
+  float: left;
+}
