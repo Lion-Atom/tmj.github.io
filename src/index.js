@@ -25,6 +25,9 @@ import myTable from './components/table'
 import myIcon from './components/icon'
 import myGrid from './components/grid'
 import myLayout from './components/layout'
+import myAffix from './components/affix'
+import myBreadcrumb from './components/breadcrumb'
+import myMenu from './components/menu'
 
 const SubMenu = Menu.SubMenu;
 //layout布局元素
@@ -95,9 +98,9 @@ class Hello extends Component {
                                 <Menu.Item key="4"><Link to="/myLayout">Layout</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub3" title={<span><Icon type="appstore"/><span>Navigation</span></span>}>
-                                <Menu.Item key="5">Affix 固钉</Menu.Item>
-                                <Menu.Item key="6">Breadcrumb 面包屑</Menu.Item>
-                                <Menu.Item key="7">Menu 导航菜单</Menu.Item>
+                                <Menu.Item key="5"><Link to="/myAffix">Affix 固钉</Link></Menu.Item>
+                                <Menu.Item key="6"><Link to="/myBreadcrumb">Breadcrumb 面包屑</Link></Menu.Item>
+                                <Menu.Item key="7"><Link to="/myMenu">Menu 导航菜单</Link></Menu.Item>
                                 <Menu.Item key="8">Pagination 分页</Menu.Item>
                                 <Menu.Item key="9">steps 步骤条</Menu.Item>
                             </SubMenu>
@@ -142,11 +145,14 @@ class Hello extends Component {
                             </Menu>
                         </Header>
                         <Content>
-                            <Route exact path="/" component={ myHome }/>
-                            <Route path="/myTable" component={myTable}/>
-                            <Route path="/myIcon" component={myIcon}/>
-                            <Route path="/myGrid" component={myGrid}/>
+                            <Route exact path="/" component={ myHome } />
+                            <Route path="/myTable" component={myTable} />
+                            <Route path="/myIcon" component={myIcon} />
+                            <Route path="/myGrid" component={myGrid} />
                             <Route path="/myLayout" component={myLayout} />
+                            <Route path="/myAffix" component={myAffix} />
+                            <Route path="/myBreadcrumb" component={myBreadcrumb}/>
+                            <Route path="/myMenu" component={myMenu} />
                         </Content>
                         <Footer>
                             React-Antd-fd ©2019 Created by 2295238451@qq.com
