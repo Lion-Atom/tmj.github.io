@@ -23,6 +23,8 @@ import './index.css';
 import myHome from './root/home';
 import myTable from './components/table'
 import myIcon from './components/icon'
+import myGrid from './components/grid'
+import myLayout from './components/layout'
 
 const SubMenu = Menu.SubMenu;
 //layout布局元素
@@ -89,8 +91,8 @@ class Hello extends Component {
                                 </Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub2" title={<span><Icon type="appstore"/><span>Layout</span></span>}>
-                                <Menu.Item key="3">Grid</Menu.Item>
-                                <Menu.Item key="4">Layout</Menu.Item>
+                                <Menu.Item key="3"><Link to="/myGrid">Grid</Link></Menu.Item>
+                                <Menu.Item key="4"><Link to="/myLayout">Layout</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub3" title={<span><Icon type="appstore"/><span>Navigation</span></span>}>
                                 <Menu.Item key="5">Affix 固钉</Menu.Item>
@@ -143,9 +145,11 @@ class Hello extends Component {
                             <Route exact path="/" component={ myHome }/>
                             <Route path="/myTable" component={myTable}/>
                             <Route path="/myIcon" component={myIcon}/>
+                            <Route path="/myGrid" component={myGrid}/>
+                            <Route path="/myLayout" component={myLayout} />
                         </Content>
                         <Footer>
-                            React-Admin ©2018 Created by 15521285778@163.com
+                            React-Antd-fd ©2019 Created by 2295238451@qq.com
                         </Footer>
                     </Layout>
                 </Layout>
