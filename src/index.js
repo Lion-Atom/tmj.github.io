@@ -28,6 +28,11 @@ import myLayout from './components/layout'
 import myAffix from './components/affix'
 import myBreadcrumb from './components/breadcrumb'
 import myMenu from './components/menu'
+import myPagination from './components/pagination'
+import mySteps from './components/steps'
+import  myCarousel from './components/carousel'
+import myDrawer from './components/drawer'
+import myAnchor from './components/anchor'
 
 const SubMenu = Menu.SubMenu;
 //layout布局元素
@@ -101,8 +106,8 @@ class Hello extends Component {
                                 <Menu.Item key="5"><Link to="/myAffix">Affix 固钉</Link></Menu.Item>
                                 <Menu.Item key="6"><Link to="/myBreadcrumb">Breadcrumb 面包屑</Link></Menu.Item>
                                 <Menu.Item key="7"><Link to="/myMenu">Menu 导航菜单</Link></Menu.Item>
-                                <Menu.Item key="8">Pagination 分页</Menu.Item>
-                                <Menu.Item key="9">steps 步骤条</Menu.Item>
+                                <Menu.Item key="8"><Link to="/myPagination">Pagination 分页</Link></Menu.Item>
+                                <Menu.Item key="9"><Link to="/mySteps">steps 步骤条</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub4" title={<span><Icon type="appstore"/><span>Data Entry</span></span>}>
                                 <Menu.Item key="10">AutoComplete 自动完成</Menu.Item>
@@ -123,10 +128,13 @@ class Hello extends Component {
                                 <Menu.Item key="25">Upload</Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub5" title={<span><Icon type="appstore"/><span>Data Display</span></span>}>
+                                <Menu.Item key="26"><Link to="/myCarousel">Carousel</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub6" title={<span><Icon type="appstore"/><span>Feedback</span></span>}>
+                                <Menu.Item key="27"><Link to="/myDrawer">Drawer</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub7" title={<span><Icon type="appstore"/><span>Other</span></span>}>
+                                <Menu.Item key="28"><Link to="/myAnchor">Anchor</Link></Menu.Item>
                             </SubMenu>
                         </Menu>
                     </Sider>
@@ -153,6 +161,11 @@ class Hello extends Component {
                             <Route path="/myAffix" component={myAffix} />
                             <Route path="/myBreadcrumb" component={myBreadcrumb}/>
                             <Route path="/myMenu" component={myMenu} />
+                            <Route path="/myPagination" component={myPagination} />
+                            <Route path="/mySteps" component={mySteps} />
+                            <Route path="/myCarousel" component={myCarousel}/>
+                            <Route path="/myDrawer" component={myDrawer}/>
+                            <Route path="/myAnchor" component={myAnchor}/>
                         </Content>
                         <Footer>
                             React-Antd-fd ©2019 Created by 2295238451@qq.com
