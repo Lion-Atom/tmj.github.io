@@ -3,7 +3,7 @@
  */
 import React,{Component} from 'react'
 import { Row, Col } from 'antd';
-import './../assets/css/grid.css'
+import '../../assets/css/grid.css'
 
 export default class myGrid extends Component{
     render(){

@@ -21,18 +21,36 @@ import './index.css';
 
 //引入组件
 import myHome from './root/home';
-import myTable from './components/table'
-import myIcon from './components/icon'
-import myGrid from './components/grid'
-import myLayout from './components/layout'
-import myAffix from './components/affix'
-import myBreadcrumb from './components/breadcrumb'
-import myMenu from './components/menu'
-import myPagination from './components/pagination'
-import mySteps from './components/steps'
-import  myCarousel from './components/carousel'
-import myDrawer from './components/drawer'
-import myAnchor from './components/anchor'
+import myTable from './components/general/table'
+import myIcon from './components/general/icon'
+//layout
+import myGrid from './components/layout/grid'
+import myLayout from './components/layout/layout'
+//navigation
+import myAffix from './components/navigation/affix'
+import myBreadcrumb from './components/navigation/breadcrumb'
+import myMenu from './components/navigation/menu'
+import myPagination from './components/navigation/pagination'
+import mySteps from './components/navigation/steps'
+//data-entry
+import myAutoComplete from './components/data-entry/autoComplete'
+import myCascader from './components/data-entry/cascader'
+import myCheckbox from './components/data-entry/checkbox'
+import myDatepicker from './components/data-entry/datepicker'
+import myForm from './components/data-entry/form'
+import myInput from './components/data-entry/input'
+import myInputNumber from './components/data-entry/inputNumber'
+import myMention from './components/data-entry/mention'
+import myRate from './components/data-entry/rate'
+import myTransfer from './components/data-entry/transfer'
+import  myUpload from './components/data-entry/upload'
+//data-display
+import  myCarousel from './components/data-display/carousel'
+//feedback
+import myDrawer from './components/feedback/drawer'
+//other
+import myAnchor from './components/other/anchor'
+
 
 const SubMenu = Menu.SubMenu;
 //layout布局元素
@@ -110,22 +128,22 @@ class Hello extends Component {
                                 <Menu.Item key="9"><Link to="/mySteps">steps 步骤条</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub4" title={<span><Icon type="appstore"/><span>Data Entry</span></span>}>
-                                <Menu.Item key="10">AutoComplete 自动完成</Menu.Item>
-                                <Menu.Item key="11">Cascader 级联</Menu.Item>
-                                <Menu.Item key="12">Checkbox</Menu.Item>
-                                <Menu.Item key="13">DatePicker</Menu.Item>
-                                <Menu.Item key="14">Form</Menu.Item>
-                                <Menu.Item key="15">Input</Menu.Item>
-                                <Menu.Item key="16">InputNumber</Menu.Item>
-                                <Menu.Item key="17">Mention 提及</Menu.Item>
-                                <Menu.Item key="18">Rate 评分</Menu.Item>
-                                <Menu.Item key="19">Radio</Menu.Item>
+                                <Menu.Item key="10"><Link to="/myAutoComplete">AutoComplete 自动完成</Link></Menu.Item>
+                                <Menu.Item key="11"><Link to="/myCascader">Cascader 级联</Link></Menu.Item>
+                                <Menu.Item key="12"><Link to="/myCheckbox">Checkbox</Link></Menu.Item>
+                                <Menu.Item key="13"><Link to="/myDatepicker">DatePicker</Link></Menu.Item>
+                                <Menu.Item key="14"><Link to="/myForm">Form</Link></Menu.Item>
+                                <Menu.Item key="15"><Link to="/myInput">Input</Link></Menu.Item>
+                                <Menu.Item key="16"><Link to="/myInputNumber">InputNumber</Link></Menu.Item>
+                                <Menu.Item key="17"><Link to="/myMention">Mention 提及</Link></Menu.Item>
+                                <Menu.Item key="18"><Link to="/myRate">Rate 评分</Link></Menu.Item>
+                                {/**<Menu.Item key="19">Radio</Menu.Item>
                                 <Menu.Item key="20">Select</Menu.Item>
                                 <Menu.Item key="21">Switch</Menu.Item>
                                 <Menu.Item key="22">TreeSelect</Menu.Item>
-                                <Menu.Item key="23">TimePicker</Menu.Item>
-                                <Menu.Item key="24">Transfer 穿梭框</Menu.Item>
-                                <Menu.Item key="25">Upload</Menu.Item>
+                                <Menu.Item key="23">TimePicker</Menu.Item>*/}
+                                <Menu.Item key="24"><Link to="/myTransfer">Transfer 穿梭框</Link></Menu.Item>
+                                <Menu.Item key="25"><Link to="/myUpload">Upload</Link></Menu.Item>
                             </SubMenu>
                             <SubMenu key="sub5" title={<span><Icon type="appstore"/><span>Data Display</span></span>}>
                                 <Menu.Item key="26"><Link to="/myCarousel">Carousel</Link></Menu.Item>
@@ -153,18 +171,38 @@ class Hello extends Component {
                             </Menu>
                         </Header>
                         <Content>
+                            {/* general */}
                             <Route exact path="/" component={ myHome } />
                             <Route path="/myTable" component={myTable} />
                             <Route path="/myIcon" component={myIcon} />
+                            {/* loyout */}
                             <Route path="/myGrid" component={myGrid} />
                             <Route path="/myLayout" component={myLayout} />
+                            {/* navigation */}
                             <Route path="/myAffix" component={myAffix} />
                             <Route path="/myBreadcrumb" component={myBreadcrumb}/>
                             <Route path="/myMenu" component={myMenu} />
                             <Route path="/myPagination" component={myPagination} />
                             <Route path="/mySteps" component={mySteps} />
+                            {/* data entry */}
+                            <Route path="/myAutoComplete" component={myAutoComplete} />
+                            <Route path="/myCascader" component={myCascader} />
+                            <Route path="/myCheckbox" component={myCheckbox} />
+                            <Route path="/myDatepicker" component={myDatepicker} />
+                            <Route path="/myCheckbox" component={myCheckbox} />
+                            <Route path="/myCheckbox" component={myCheckbox} />
+                            <Route path="/myForm" component={myForm} />
+                            <Route path="/myInput" component={myInput} />
+                            <Route path="/myInputNumber" component={myInputNumber}/>
+                            <Route path="/myMention" component={myMention}/>
+                            <Route path="/myRate" component={myRate}/>
+                            <Route path="/myTransfer" component={myTransfer}/>
+                            <Route path="/myUpload" component={myUpload}/>
+                            {/* data display */}
                             <Route path="/myCarousel" component={myCarousel}/>
+                            {/* feedback */}
                             <Route path="/myDrawer" component={myDrawer}/>
+                            {/* other */}
                             <Route path="/myAnchor" component={myAnchor}/>
                         </Content>
                         <Footer>

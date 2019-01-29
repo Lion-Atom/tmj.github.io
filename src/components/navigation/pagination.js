@@ -3,9 +3,13 @@
  */
 import React,{Component} from 'react'
 import {Pagination} from 'antd'
+import {requestUsers} from "../../api/api";
 function showTotal(total){
     return `total ${total} items`;
 }
+requestUsers({id:99}).then((res) => {
+    console.log(res)
+})
 
 export default class myPagination extends Component{
 

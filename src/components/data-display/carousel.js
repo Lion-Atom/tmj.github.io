@@ -3,7 +3,7 @@
  */
 import React,{Component} from 'react'
 import {Carousel} from 'antd'
-import './../assets/css/carousel.css'
+import '../../assets/css/carousel.css'
 
 export default class myCarousel extends Component{
 
