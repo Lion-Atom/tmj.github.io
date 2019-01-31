@@ -189,8 +189,6 @@ class Hello extends Component {
                             <Route path="/myCascader" component={myCascader} />
                             <Route path="/myCheckbox" component={myCheckbox} />
                             <Route path="/myDatepicker" component={myDatepicker} />
-                            <Route path="/myCheckbox" component={myCheckbox} />
-                            <Route path="/myCheckbox" component={myCheckbox} />
                             <Route path="/myForm" component={myForm} />
                             <Route path="/myInput" component={myInput} />
                             <Route path="/myInputNumber" component={myInputNumber}/>

@@ -7,7 +7,7 @@ import {requestUsers} from "../../api/api";
 function showTotal(total){
     return `total ${total} items`;
 }
-requestUsers({id:99}).then((res) => {
+requestUsers().then((res) => {
     console.log(res)
 })
 
