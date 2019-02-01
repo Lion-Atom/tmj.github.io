@@ -50,6 +50,7 @@ import  myCarousel from './components/data-display/carousel'
 import myDrawer from './components/feedback/drawer'
 //other
 import myAnchor from './components/other/anchor'
+import myList from './components/other/list'
 
 
 const SubMenu = Menu.SubMenu;
@@ -153,6 +154,7 @@ class Hello extends Component {
                             </SubMenu>
                             <SubMenu key="sub7" title={<span><Icon type="appstore"/><span>Other</span></span>}>
                                 <Menu.Item key="28"><Link to="/myAnchor">Anchor</Link></Menu.Item>
+                                <Menu.Item key="29"><Link to="/myList">List</Link></Menu.Item>
                             </SubMenu>
                         </Menu>
                     </Sider>
@@ -202,6 +204,7 @@ class Hello extends Component {
                             <Route path="/myDrawer" component={myDrawer}/>
                             {/* other */}
                             <Route path="/myAnchor" component={myAnchor}/>
+                            <Route path="/myList" component={myList} />
                         </Content>
                         <Footer>
                             React-Antd-fd ©2019 Created by 2295238451@qq.com
